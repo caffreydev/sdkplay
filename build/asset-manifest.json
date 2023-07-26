@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sdkplay/static/css/main.b4ff1958.css",
+    "main.js": "/sdkplay/static/js/main.76bcdb79.js",
+    "index.html": "/sdkplay/index.html",
+    "main.b4ff1958.css.map": "/sdkplay/static/css/main.b4ff1958.css.map",
+    "main.76bcdb79.js.map": "/sdkplay/static/js/main.76bcdb79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ff1958.css",
+    "static/js/main.76bcdb79.js"
+  ]
+}
