@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://www.joemccaffrey.dev/sdkplay",
   "dependencies": {
-    "@headlessui/react": "^1.4.1",
+    "@headlessui/react": "^1.7.16",
     "@heroicons/react": "^1.0.2",
     "@popperjs/core": "^2.11.7",
     "@videosdk.live/react-sdk": "^0.1.74",
